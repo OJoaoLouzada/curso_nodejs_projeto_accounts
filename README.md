@@ -7,4 +7,4 @@ Neste primeiro projeto do curso simulamos uma aplicação simples, operada diret
 ## Depositar
 ## Sacar
 
-Para rodar a aplicação basta digitar no terminal o comando "npm start".
+Para iniciar a aplicação basta digitar no terminal o comando "npm start".
